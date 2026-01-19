@@ -1,5 +1,5 @@
-# HTML & CSS Kurumsal Web Sİtesi Tasarımı (Staj Projesi)
-Bu proje, staj süresince HTML,CSS ve JAVASCRİPT kullanılarak gelişitirilmiş kurumsal bir web sitesi arayüz tasarımıdır.
+# HTML & CSS İle Kurumsal Web Sitesi Tasarımı (Staj Projesi)
+Bu proje, staj süresince HTML,CSS ve JAVASCRİPT kullanılarak gelişitirilmiş kurumsal bir web sitesi arayüzü tasarımıdır.
 Proje, bir teknik arıza servisi takip sistemi için örnek olacak şekilde tasarlanmıştır.
 
 ## PROJE İÇERİĞİ VE ÖZELLİKLER
@@ -11,16 +11,16 @@ Proje, bir teknik arıza servisi takip sistemi için örnek olacak şekilde tasa
 
 ### KULLANICI YORUMLARI
 -Kullanıcı yorumlarının listelendiği alan
--Yorumlara ait programlama sistemi 
+-Yorumlara ait puanlama sistemi 
 -Kart yapısı
 
 ### Sık Sorulan Sorular
--Açılır/hareketli kutuşar ile sık sorulan sorular(SSS) alanı
+-Açılır/hareketli kutular ile sık sorulan sorular(SSS) alanı
 -Kullanıcı etkileşimini artıran tasarım
 
 ### FOOTER (ALT BİLGİ ALANI)
 -Merkez şube bilgisi link ile şubeye yönlendirme ekranı
--Sosyal medya ikonları ile şubenin sayfasına yönlendirme
+-Sosyal medya ikonları ile şubenin sayfasına yönlendirme butonları
 -"Bize Ulaşın" kısmı ile şubenin iletişim bilgi ekranı
 
 ### Ek Özellikler
@@ -35,4 +35,3 @@ Proje, bir teknik arıza servisi takip sistemi için örnek olacak şekilde tasa
 
 >BU PROJE STAJ KAPSAMINDA BİREYSEL OLARAK GELİŞTİRİLMİŞİTİR.
 
->
