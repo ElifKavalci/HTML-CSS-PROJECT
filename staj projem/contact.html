@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İletişim Formu</title>
+    <style>
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  h2 {
+    color: #023a72; /* koyu mavi */
+  }
+
+  label {
+    color: #330b92; /* etiket metinleri mavi */
+    font-weight: bold;
+  }
+  
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    background-color: #cce4ff; /* açık mavi */
+    border: 1px solid #3399ff;
+    border-radius: 6px;
+    padding: 8px;
+    width: 300px;
+    font-size: 16px;
+    color: #0c0703; /* yazı siyah kalabilir */
+  }
+
+  input[type="submit"] {
+    background-color: #0066cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #df8b0d;
+  }
+  </style>
+
+</head>
+<body>
+    <h2 style="text-align: center;">İletişim Bilgileriniz</h2>
+  <form id="myForm" style="text-align: center;">
+    <label for="ad">Adınız:</label><br>
+    <input type="text" id="ad" name="ad"><br><br>
+    <label for="soyad">Soyadınız:</label><br>
+    <input type="text" id="soyad" name="soyad"><br><br>
+    <label for="text">Konu:</label><br>
+    <input type="text" id="konu" name="konu"><br><br>
+    <label for="email">E-posta:</label><br>
+    <input type="email" id="email" name="email"><br><br>
+    <label for="mesaj">Mesajınız:</label><br>
+    <textarea id="mesaj" name="mesaj" rows="4" cols="50"></textarea><br><br>
+    <input type="submit" value="Gönder">
+  </form>
+
+</body>
+</html>
